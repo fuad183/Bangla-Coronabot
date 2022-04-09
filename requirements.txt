@@ -1,0 +1,8 @@
+nltk
+flask
+chatbot
+gunicorn
+chatterbot
+chatterbot-corpus
+PyYAML==5.3.1
+
